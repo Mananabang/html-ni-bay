@@ -1,0 +1,3 @@
+Steezy Phone Shop is a product showcase website designed to highlight various smartphones and tablets. The site was developed using HTML, which helped structure the overall layout and organize the content effectively.
+The website includes a homepage, product listings, a contact form, and a developer section. Each part was created to enhance the user experience and provide easy access to product information.
+Our main goal was to create a user-friendly and visually appealing platform. By focusing on accessibility and smooth navigation, we aimed to make it simple for customers to browse, compare, and learn more about the products offered.
